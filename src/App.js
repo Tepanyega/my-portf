@@ -53,10 +53,10 @@ function App() {
 				<div class="box-main">
 					<div class="secondHalf">
 						<h1 class="text-big" id="program">
-							Why SovTech
+							Why...
 						</h1>
 						<p class="text-small">
-						SovTech company is one of the best software development company 
+						... company is one of the best software development company 
 						in the industry, so finding myself in this company will be of great honour.
 						
 							
